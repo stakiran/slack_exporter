@@ -1,0 +1,2 @@
+@echo off
+set SLACKAPI_TOKEN=(YOUR-LEGACY-TOKEN)
