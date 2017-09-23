@@ -90,7 +90,7 @@ $ dir log_170626_tweet_slack.md
 
 ```markdown
 # 2017/08/12 14:07:05
-<@U4499TRLM> has renamed the channel from "tweet" to "170626_tweet_slack"
+<@UXXXXXXXX> has renamed the channel from "tweet" to "170626_tweet_slack"
 
 ts:1502514425.163748, type:message
 
